@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "cypress": "^9.3.1"
+    "cypress": "8.5.0"
   },
   "dependencies": {
     "@currents/cli": "^1.0.8"
